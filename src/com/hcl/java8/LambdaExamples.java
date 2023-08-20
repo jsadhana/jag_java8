@@ -22,7 +22,8 @@ public class LambdaExamples {
 		
 		for(String str : names){
 			System.out.println(str);
-			System.out.println("ADMDARA__");
+			System.out.println("ADM_ADMDARA__");
+			
 		}
 	}
 }
