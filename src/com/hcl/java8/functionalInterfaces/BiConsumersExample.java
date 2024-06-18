@@ -5,7 +5,7 @@ import java.util.function.BiConsumer;
 public class BiConsumersExample {
 
 	public static void main(String[] args) {
-		
+		//add
 		BiConsumer<Person, Person> biConsumer = (p1, p2) -> {
 			System.out.println(" print first persion");
 			System.out.println(p1.getName());
